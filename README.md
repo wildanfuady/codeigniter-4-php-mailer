@@ -1,8 +1,12 @@
-# CodeIgniter 4 Framework
+# Tutorial Kirim Email Menggunakan Codeigniter 4 dan PHP Mailer
 
-## What is CodeIgniter?
+Pada kesempatan kali ini kami akan membahas bagaimana cara kirim email menggunakan codeigniter 4 dan PHP mailer.
 
-Cara penggunaan:
+Kirim email merupakan salah satu kebutuhkan aplikasi website untuk bertukar informasi antar pengguna. Misalnya antara pemilik situs website dengan penggunanya.
+
+Salah satu library yang bisa kita gunakan adalah PHP Mailer.
+
+## Cara penggunaan:
 
 Step 1 - Clone Project
 
